@@ -1,0 +1,7 @@
+* text=auto !eol
+bin/iconv.exe -text
+bin/libiconv2.dll -text
+bin/libintl3.dll -text
+bin/regex2.dll -text
+bin/sed.exe -text
+bin/tr.exe -text
